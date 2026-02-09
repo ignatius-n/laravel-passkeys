@@ -2,6 +2,19 @@
 
 All notable changes to `laravel-passkeys` will be documented in this file.
 
+## 1.6.0 - 2026-02-09
+
+### What's Changed
+
+* Fixed: return resolved action class instead of null from `getActionClass()` by @ggiak in https://github.com/spatie/laravel-passkeys/pull/96
+* Allow Livewire 3 and 4 in dev dependencies
+
+### New Contributors
+
+* @ggiak made their first contribution in https://github.com/spatie/laravel-passkeys/pull/96
+
+**Full Changelog**: https://github.com/spatie/laravel-passkeys/compare/1.5.3...1.6.0
+
 ## 1.5.2 - 2025-12-11
 
 ### What's Changed
